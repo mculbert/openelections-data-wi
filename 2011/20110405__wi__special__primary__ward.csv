@@ -1,0 +1,646 @@
+county,ward,office,district,total.votes,party,candidate,votes
+Ozaukee,"Town Of Cedarburg Wards 1, 2 & 10",State Assembly,60,70,DEM,Rick Aaron,43
+Ozaukee,Town Of Cedarburg Wards 3 & 4,State Assembly,60,87,DEM,Rick Aaron,64
+Ozaukee,Town Of Cedarburg Wards 5 & 6,State Assembly,60,88,DEM,Rick Aaron,65
+Ozaukee,Town Of Cedarburg Wards 7 - 9,State Assembly,60,84,DEM,Rick Aaron,50
+Ozaukee,"Town Of Grafton Wards 1, 2 & 6",State Assembly,60,115,DEM,Rick Aaron,74
+Ozaukee,Town Of Grafton Wards 3 - 5 & 7,State Assembly,60,141,DEM,Rick Aaron,78
+Ozaukee,Town Of Port Washington Wards 1 & 2,State Assembly,60,99,DEM,Rick Aaron,58
+Ozaukee,Town Of Saukville Wards 2 - 5,State Assembly,60,65,DEM,Rick Aaron,36
+Ozaukee,Village Of Grafton Wards 1 & 2 & 16,State Assembly,60,71,DEM,Rick Aaron,42
+Ozaukee,Village Of Grafton Wards 3 & 4,State Assembly,60,106,DEM,Rick Aaron,76
+Ozaukee,Village Of Grafton Wards 5 & 6,State Assembly,60,153,DEM,Rick Aaron,100
+Ozaukee,Village Of Grafton Wards 7 & 8,State Assembly,60,102,DEM,Rick Aaron,65
+Ozaukee,Village Of Grafton Wards 9 - 11 & 14 - 15,State Assembly,60,127,DEM,Rick Aaron,78
+Ozaukee,Village Of Grafton Wards 12 & 13,State Assembly,60,130,DEM,Rick Aaron,92
+Ozaukee,Village Of Newburg Ward 3,State Assembly,60,1,DEM,Rick Aaron,1
+Ozaukee,"Village Of Saukville Wards 1, 6 & 7",State Assembly,60,93,DEM,Rick Aaron,63
+Ozaukee,Village Of Saukville Wards 2 - 5 & 8,State Assembly,60,103,DEM,Rick Aaron,64
+Ozaukee,City Of Cedarburg Wards 1 & 2 & 15,State Assembly,60,97,DEM,Rick Aaron,67
+Ozaukee,City Of Cedarburg Wards 3 & 4 & 16,State Assembly,60,104,DEM,Rick Aaron,55
+Ozaukee,City Of Cedarburg Wards 5 & 6,State Assembly,60,148,DEM,Rick Aaron,115
+Ozaukee,City Of Cedarburg Wards 7 & 8 & 17 & 22,State Assembly,60,62,DEM,Rick Aaron,40
+Ozaukee,City Of Cedarburg Wards 9 & 10,State Assembly,60,131,DEM,Rick Aaron,89
+Ozaukee,City Of Cedarburg Wards 11 & 12 & 18,State Assembly,60,113,DEM,Rick Aaron,83
+Ozaukee,City Of Cedarburg Wards 13 & 14 & 19 & 20 & 21,State Assembly,60,151,DEM,Rick Aaron,87
+Ozaukee,City Of Mequon Ward 2,State Assembly,60,35,DEM,Rick Aaron,19
+Ozaukee,City Of Port Washington Ward 1,State Assembly,60,101,DEM,Rick Aaron,43
+Ozaukee,City Of Port Washington Wards 2 & 3,State Assembly,60,115,DEM,Rick Aaron,49
+Ozaukee,City Of Port Washington Wards 4 & 5,State Assembly,60,98,DEM,Rick Aaron,46
+Ozaukee,City Of Port Washington Ward 6,State Assembly,60,75,DEM,Rick Aaron,41
+Ozaukee,City Of Port Washington Wards 7 & 8,State Assembly,60,179,DEM,Rick Aaron,91
+Ozaukee,City Of Port Washington Wards 9 & 10,State Assembly,60,90,DEM,Rick Aaron,40
+Ozaukee,City Of Port Washington Ward 11,State Assembly,60,123,DEM,Rick Aaron,55
+Washington,"Town Of Trenton Wards 1, 2, 5 - 7",State Assembly,60,108,DEM,Rick Aaron,69
+Washington,Village Of Newburg Wards 1 & 2,State Assembly,60,30,DEM,Rick Aaron,19
+Washington,"City Of West Bend Ward 28, 34",State Assembly,60,2,DEM,Rick Aaron,1
+Ozaukee,"Town Of Cedarburg Wards 1, 2 & 10",State Assembly,60,70,DEM,Perry Duman,27
+Ozaukee,Town Of Cedarburg Wards 3 & 4,State Assembly,60,87,DEM,Perry Duman,23
+Ozaukee,Town Of Cedarburg Wards 5 & 6,State Assembly,60,88,DEM,Perry Duman,23
+Ozaukee,Town Of Cedarburg Wards 7 - 9,State Assembly,60,84,DEM,Perry Duman,34
+Ozaukee,"Town Of Grafton Wards 1, 2 & 6",State Assembly,60,115,DEM,Perry Duman,40
+Ozaukee,Town Of Grafton Wards 3 - 5 & 7,State Assembly,60,141,DEM,Perry Duman,63
+Ozaukee,Town Of Port Washington Wards 1 & 2,State Assembly,60,99,DEM,Perry Duman,41
+Ozaukee,Town Of Saukville Wards 2 - 5,State Assembly,60,65,DEM,Perry Duman,29
+Ozaukee,Village Of Grafton Wards 1 & 2 & 16,State Assembly,60,71,DEM,Perry Duman,29
+Ozaukee,Village Of Grafton Wards 3 & 4,State Assembly,60,106,DEM,Perry Duman,30
+Ozaukee,Village Of Grafton Wards 5 & 6,State Assembly,60,153,DEM,Perry Duman,53
+Ozaukee,Village Of Grafton Wards 7 & 8,State Assembly,60,102,DEM,Perry Duman,36
+Ozaukee,Village Of Grafton Wards 9 - 11 & 14 - 15,State Assembly,60,127,DEM,Perry Duman,49
+Ozaukee,Village Of Grafton Wards 12 & 13,State Assembly,60,130,DEM,Perry Duman,38
+Ozaukee,Village Of Newburg Ward 3,State Assembly,60,1,DEM,Perry Duman,0
+Ozaukee,"Village Of Saukville Wards 1, 6 & 7",State Assembly,60,93,DEM,Perry Duman,30
+Ozaukee,Village Of Saukville Wards 2 - 5 & 8,State Assembly,60,103,DEM,Perry Duman,39
+Ozaukee,City Of Cedarburg Wards 1 & 2 & 15,State Assembly,60,97,DEM,Perry Duman,30
+Ozaukee,City Of Cedarburg Wards 3 & 4 & 16,State Assembly,60,104,DEM,Perry Duman,49
+Ozaukee,City Of Cedarburg Wards 5 & 6,State Assembly,60,148,DEM,Perry Duman,32
+Ozaukee,City Of Cedarburg Wards 7 & 8 & 17 & 22,State Assembly,60,62,DEM,Perry Duman,20
+Ozaukee,City Of Cedarburg Wards 9 & 10,State Assembly,60,131,DEM,Perry Duman,41
+Ozaukee,City Of Cedarburg Wards 11 & 12 & 18,State Assembly,60,113,DEM,Perry Duman,30
+Ozaukee,City Of Cedarburg Wards 13 & 14 & 19 & 20 & 21,State Assembly,60,151,DEM,Perry Duman,63
+Ozaukee,City Of Mequon Ward 2,State Assembly,60,35,DEM,Perry Duman,16
+Ozaukee,City Of Port Washington Ward 1,State Assembly,60,101,DEM,Perry Duman,58
+Ozaukee,City Of Port Washington Wards 2 & 3,State Assembly,60,115,DEM,Perry Duman,66
+Ozaukee,City Of Port Washington Wards 4 & 5,State Assembly,60,98,DEM,Perry Duman,52
+Ozaukee,City Of Port Washington Ward 6,State Assembly,60,75,DEM,Perry Duman,33
+Ozaukee,City Of Port Washington Wards 7 & 8,State Assembly,60,179,DEM,Perry Duman,88
+Ozaukee,City Of Port Washington Wards 9 & 10,State Assembly,60,90,DEM,Perry Duman,50
+Ozaukee,City Of Port Washington Ward 11,State Assembly,60,123,DEM,Perry Duman,68
+Washington,"Town Of Trenton Wards 1, 2, 5 - 7",State Assembly,60,108,DEM,Perry Duman,39
+Washington,Village Of Newburg Wards 1 & 2,State Assembly,60,30,DEM,Perry Duman,10
+Washington,"City Of West Bend Ward 28, 34",State Assembly,60,2,DEM,Perry Duman,1
+Ozaukee,"Town Of Cedarburg Wards 1, 2 & 10",State Assembly,60,70,DEM,Scattering,0
+Ozaukee,Town Of Cedarburg Wards 3 & 4,State Assembly,60,87,DEM,Scattering,0
+Ozaukee,Town Of Cedarburg Wards 5 & 6,State Assembly,60,88,DEM,Scattering,0
+Ozaukee,Town Of Cedarburg Wards 7 - 9,State Assembly,60,84,DEM,Scattering,0
+Ozaukee,"Town Of Grafton Wards 1, 2 & 6",State Assembly,60,115,DEM,Scattering,1
+Ozaukee,Town Of Grafton Wards 3 - 5 & 7,State Assembly,60,141,DEM,Scattering,0
+Ozaukee,Town Of Port Washington Wards 1 & 2,State Assembly,60,99,DEM,Scattering,0
+Ozaukee,Town Of Saukville Wards 2 - 5,State Assembly,60,65,DEM,Scattering,0
+Ozaukee,Village Of Grafton Wards 1 & 2 & 16,State Assembly,60,71,DEM,Scattering,0
+Ozaukee,Village Of Grafton Wards 3 & 4,State Assembly,60,106,DEM,Scattering,0
+Ozaukee,Village Of Grafton Wards 5 & 6,State Assembly,60,153,DEM,Scattering,0
+Ozaukee,Village Of Grafton Wards 7 & 8,State Assembly,60,102,DEM,Scattering,1
+Ozaukee,Village Of Grafton Wards 9 - 11 & 14 - 15,State Assembly,60,127,DEM,Scattering,0
+Ozaukee,Village Of Grafton Wards 12 & 13,State Assembly,60,130,DEM,Scattering,0
+Ozaukee,Village Of Newburg Ward 3,State Assembly,60,1,DEM,Scattering,0
+Ozaukee,"Village Of Saukville Wards 1, 6 & 7",State Assembly,60,93,DEM,Scattering,0
+Ozaukee,Village Of Saukville Wards 2 - 5 & 8,State Assembly,60,103,DEM,Scattering,0
+Ozaukee,City Of Cedarburg Wards 1 & 2 & 15,State Assembly,60,97,DEM,Scattering,0
+Ozaukee,City Of Cedarburg Wards 3 & 4 & 16,State Assembly,60,104,DEM,Scattering,0
+Ozaukee,City Of Cedarburg Wards 5 & 6,State Assembly,60,148,DEM,Scattering,1
+Ozaukee,City Of Cedarburg Wards 7 & 8 & 17 & 22,State Assembly,60,62,DEM,Scattering,2
+Ozaukee,City Of Cedarburg Wards 9 & 10,State Assembly,60,131,DEM,Scattering,1
+Ozaukee,City Of Cedarburg Wards 11 & 12 & 18,State Assembly,60,113,DEM,Scattering,0
+Ozaukee,City Of Cedarburg Wards 13 & 14 & 19 & 20 & 21,State Assembly,60,151,DEM,Scattering,1
+Ozaukee,City Of Mequon Ward 2,State Assembly,60,35,DEM,Scattering,0
+Ozaukee,City Of Port Washington Ward 1,State Assembly,60,101,DEM,Scattering,0
+Ozaukee,City Of Port Washington Wards 2 & 3,State Assembly,60,115,DEM,Scattering,0
+Ozaukee,City Of Port Washington Wards 4 & 5,State Assembly,60,98,DEM,Scattering,0
+Ozaukee,City Of Port Washington Ward 6,State Assembly,60,75,DEM,Scattering,1
+Ozaukee,City Of Port Washington Wards 7 & 8,State Assembly,60,179,DEM,Scattering,0
+Ozaukee,City Of Port Washington Wards 9 & 10,State Assembly,60,90,DEM,Scattering,0
+Ozaukee,City Of Port Washington Ward 11,State Assembly,60,123,DEM,Scattering,0
+Washington,"Town Of Trenton Wards 1, 2, 5 - 7",State Assembly,60,108,DEM,Scattering,0
+Washington,Village Of Newburg Wards 1 & 2,State Assembly,60,30,DEM,Scattering,1
+Washington,"City Of West Bend Ward 28, 34",State Assembly,60,2,DEM,Scattering,0
+Ozaukee,"Town Of Cedarburg Wards 1, 2 & 10",State Assembly,60,413,REP,Tim Schwister,6
+Ozaukee,Town Of Cedarburg Wards 3 & 4,State Assembly,60,420,REP,Tim Schwister,7
+Ozaukee,Town Of Cedarburg Wards 5 & 6,State Assembly,60,506,REP,Tim Schwister,4
+Ozaukee,Town Of Cedarburg Wards 7 - 9,State Assembly,60,445,REP,Tim Schwister,11
+Ozaukee,"Town Of Grafton Wards 1, 2 & 6",State Assembly,60,594,REP,Tim Schwister,21
+Ozaukee,Town Of Grafton Wards 3 - 5 & 7,State Assembly,60,506,REP,Tim Schwister,22
+Ozaukee,Town Of Port Washington Wards 1 & 2,State Assembly,60,353,REP,Tim Schwister,13
+Ozaukee,Town Of Saukville Wards 2 - 5,State Assembly,60,297,REP,Tim Schwister,16
+Ozaukee,Village Of Grafton Wards 1 & 2 & 16,State Assembly,60,284,REP,Tim Schwister,14
+Ozaukee,Village Of Grafton Wards 3 & 4,State Assembly,60,290,REP,Tim Schwister,9
+Ozaukee,Village Of Grafton Wards 5 & 6,State Assembly,60,506,REP,Tim Schwister,14
+Ozaukee,Village Of Grafton Wards 7 & 8,State Assembly,60,347,REP,Tim Schwister,9
+Ozaukee,Village Of Grafton Wards 9 - 11 & 14 - 15,State Assembly,60,392,REP,Tim Schwister,8
+Ozaukee,Village Of Grafton Wards 12 & 13,State Assembly,60,420,REP,Tim Schwister,17
+Ozaukee,Village Of Newburg Ward 3,State Assembly,60,17,REP,Tim Schwister,0
+Ozaukee,"Village Of Saukville Wards 1, 6 & 7",State Assembly,60,374,REP,Tim Schwister,34
+Ozaukee,Village Of Saukville Wards 2 - 5 & 8,State Assembly,60,330,REP,Tim Schwister,29
+Ozaukee,City Of Cedarburg Wards 1 & 2 & 15,State Assembly,60,397,REP,Tim Schwister,5
+Ozaukee,City Of Cedarburg Wards 3 & 4 & 16,State Assembly,60,437,REP,Tim Schwister,12
+Ozaukee,City Of Cedarburg Wards 5 & 6,State Assembly,60,295,REP,Tim Schwister,10
+Ozaukee,City Of Cedarburg Wards 7 & 8 & 17 & 22,State Assembly,60,201,REP,Tim Schwister,9
+Ozaukee,City Of Cedarburg Wards 9 & 10,State Assembly,60,319,REP,Tim Schwister,9
+Ozaukee,City Of Cedarburg Wards 11 & 12 & 18,State Assembly,60,419,REP,Tim Schwister,9
+Ozaukee,City Of Cedarburg Wards 13 & 14 & 19 & 20 & 21,State Assembly,60,439,REP,Tim Schwister,9
+Ozaukee,City Of Mequon Ward 2,State Assembly,60,246,REP,Tim Schwister,16
+Ozaukee,City Of Port Washington Ward 1,State Assembly,60,284,REP,Tim Schwister,15
+Ozaukee,City Of Port Washington Wards 2 & 3,State Assembly,60,217,REP,Tim Schwister,14
+Ozaukee,City Of Port Washington Wards 4 & 5,State Assembly,60,207,REP,Tim Schwister,11
+Ozaukee,City Of Port Washington Ward 6,State Assembly,60,185,REP,Tim Schwister,19
+Ozaukee,City Of Port Washington Wards 7 & 8,State Assembly,60,358,REP,Tim Schwister,13
+Ozaukee,City Of Port Washington Wards 9 & 10,State Assembly,60,223,REP,Tim Schwister,19
+Ozaukee,City Of Port Washington Ward 11,State Assembly,60,251,REP,Tim Schwister,19
+Washington,"Town Of Trenton Wards 1, 2, 5 - 7",State Assembly,60,635,REP,Tim Schwister,54
+Washington,Village Of Newburg Wards 1 & 2,State Assembly,60,140,REP,Tim Schwister,14
+Washington,"City Of West Bend Ward 28, 34",State Assembly,60,1,REP,Tim Schwister,0
+Ozaukee,"Town Of Cedarburg Wards 1, 2 & 10",State Assembly,60,413,REP,Paul Melotik,22
+Ozaukee,Town Of Cedarburg Wards 3 & 4,State Assembly,60,420,REP,Paul Melotik,28
+Ozaukee,Town Of Cedarburg Wards 5 & 6,State Assembly,60,506,REP,Paul Melotik,34
+Ozaukee,Town Of Cedarburg Wards 7 - 9,State Assembly,60,445,REP,Paul Melotik,44
+Ozaukee,"Town Of Grafton Wards 1, 2 & 6",State Assembly,60,594,REP,Paul Melotik,174
+Ozaukee,Town Of Grafton Wards 3 - 5 & 7,State Assembly,60,506,REP,Paul Melotik,162
+Ozaukee,Town Of Port Washington Wards 1 & 2,State Assembly,60,353,REP,Paul Melotik,57
+Ozaukee,Town Of Saukville Wards 2 - 5,State Assembly,60,297,REP,Paul Melotik,48
+Ozaukee,Village Of Grafton Wards 1 & 2 & 16,State Assembly,60,284,REP,Paul Melotik,92
+Ozaukee,Village Of Grafton Wards 3 & 4,State Assembly,60,290,REP,Paul Melotik,87
+Ozaukee,Village Of Grafton Wards 5 & 6,State Assembly,60,506,REP,Paul Melotik,161
+Ozaukee,Village Of Grafton Wards 7 & 8,State Assembly,60,347,REP,Paul Melotik,69
+Ozaukee,Village Of Grafton Wards 9 - 11 & 14 - 15,State Assembly,60,392,REP,Paul Melotik,94
+Ozaukee,Village Of Grafton Wards 12 & 13,State Assembly,60,420,REP,Paul Melotik,134
+Ozaukee,Village Of Newburg Ward 3,State Assembly,60,17,REP,Paul Melotik,2
+Ozaukee,"Village Of Saukville Wards 1, 6 & 7",State Assembly,60,374,REP,Paul Melotik,82
+Ozaukee,Village Of Saukville Wards 2 - 5 & 8,State Assembly,60,330,REP,Paul Melotik,59
+Ozaukee,City Of Cedarburg Wards 1 & 2 & 15,State Assembly,60,397,REP,Paul Melotik,34
+Ozaukee,City Of Cedarburg Wards 3 & 4 & 16,State Assembly,60,437,REP,Paul Melotik,41
+Ozaukee,City Of Cedarburg Wards 5 & 6,State Assembly,60,295,REP,Paul Melotik,33
+Ozaukee,City Of Cedarburg Wards 7 & 8 & 17 & 22,State Assembly,60,201,REP,Paul Melotik,20
+Ozaukee,City Of Cedarburg Wards 9 & 10,State Assembly,60,319,REP,Paul Melotik,41
+Ozaukee,City Of Cedarburg Wards 11 & 12 & 18,State Assembly,60,419,REP,Paul Melotik,63
+Ozaukee,City Of Cedarburg Wards 13 & 14 & 19 & 20 & 21,State Assembly,60,439,REP,Paul Melotik,63
+Ozaukee,City Of Mequon Ward 2,State Assembly,60,246,REP,Paul Melotik,42
+Ozaukee,City Of Port Washington Ward 1,State Assembly,60,284,REP,Paul Melotik,53
+Ozaukee,City Of Port Washington Wards 2 & 3,State Assembly,60,217,REP,Paul Melotik,43
+Ozaukee,City Of Port Washington Wards 4 & 5,State Assembly,60,207,REP,Paul Melotik,49
+Ozaukee,City Of Port Washington Ward 6,State Assembly,60,185,REP,Paul Melotik,43
+Ozaukee,City Of Port Washington Wards 7 & 8,State Assembly,60,358,REP,Paul Melotik,72
+Ozaukee,City Of Port Washington Wards 9 & 10,State Assembly,60,223,REP,Paul Melotik,52
+Ozaukee,City Of Port Washington Ward 11,State Assembly,60,251,REP,Paul Melotik,55
+Washington,"Town Of Trenton Wards 1, 2, 5 - 7",State Assembly,60,635,REP,Paul Melotik,67
+Washington,Village Of Newburg Wards 1 & 2,State Assembly,60,140,REP,Paul Melotik,12
+Washington,"City Of West Bend Ward 28, 34",State Assembly,60,1,REP,Paul Melotik,0
+Ozaukee,"Town Of Cedarburg Wards 1, 2 & 10",State Assembly,60,413,REP,Rik Kluessendorf,1
+Ozaukee,Town Of Cedarburg Wards 3 & 4,State Assembly,60,420,REP,Rik Kluessendorf,1
+Ozaukee,Town Of Cedarburg Wards 5 & 6,State Assembly,60,506,REP,Rik Kluessendorf,8
+Ozaukee,Town Of Cedarburg Wards 7 - 9,State Assembly,60,445,REP,Rik Kluessendorf,4
+Ozaukee,"Town Of Grafton Wards 1, 2 & 6",State Assembly,60,594,REP,Rik Kluessendorf,3
+Ozaukee,Town Of Grafton Wards 3 - 5 & 7,State Assembly,60,506,REP,Rik Kluessendorf,6
+Ozaukee,Town Of Port Washington Wards 1 & 2,State Assembly,60,353,REP,Rik Kluessendorf,30
+Ozaukee,Town Of Saukville Wards 2 - 5,State Assembly,60,297,REP,Rik Kluessendorf,8
+Ozaukee,Village Of Grafton Wards 1 & 2 & 16,State Assembly,60,284,REP,Rik Kluessendorf,3
+Ozaukee,Village Of Grafton Wards 3 & 4,State Assembly,60,290,REP,Rik Kluessendorf,4
+Ozaukee,Village Of Grafton Wards 5 & 6,State Assembly,60,506,REP,Rik Kluessendorf,12
+Ozaukee,Village Of Grafton Wards 7 & 8,State Assembly,60,347,REP,Rik Kluessendorf,6
+Ozaukee,Village Of Grafton Wards 9 - 11 & 14 - 15,State Assembly,60,392,REP,Rik Kluessendorf,8
+Ozaukee,Village Of Grafton Wards 12 & 13,State Assembly,60,420,REP,Rik Kluessendorf,3
+Ozaukee,Village Of Newburg Ward 3,State Assembly,60,17,REP,Rik Kluessendorf,0
+Ozaukee,"Village Of Saukville Wards 1, 6 & 7",State Assembly,60,374,REP,Rik Kluessendorf,27
+Ozaukee,Village Of Saukville Wards 2 - 5 & 8,State Assembly,60,330,REP,Rik Kluessendorf,14
+Ozaukee,City Of Cedarburg Wards 1 & 2 & 15,State Assembly,60,397,REP,Rik Kluessendorf,1
+Ozaukee,City Of Cedarburg Wards 3 & 4 & 16,State Assembly,60,437,REP,Rik Kluessendorf,4
+Ozaukee,City Of Cedarburg Wards 5 & 6,State Assembly,60,295,REP,Rik Kluessendorf,2
+Ozaukee,City Of Cedarburg Wards 7 & 8 & 17 & 22,State Assembly,60,201,REP,Rik Kluessendorf,4
+Ozaukee,City Of Cedarburg Wards 9 & 10,State Assembly,60,319,REP,Rik Kluessendorf,8
+Ozaukee,City Of Cedarburg Wards 11 & 12 & 18,State Assembly,60,419,REP,Rik Kluessendorf,8
+Ozaukee,City Of Cedarburg Wards 13 & 14 & 19 & 20 & 21,State Assembly,60,439,REP,Rik Kluessendorf,2
+Ozaukee,City Of Mequon Ward 2,State Assembly,60,246,REP,Rik Kluessendorf,3
+Ozaukee,City Of Port Washington Ward 1,State Assembly,60,284,REP,Rik Kluessendorf,20
+Ozaukee,City Of Port Washington Wards 2 & 3,State Assembly,60,217,REP,Rik Kluessendorf,24
+Ozaukee,City Of Port Washington Wards 4 & 5,State Assembly,60,207,REP,Rik Kluessendorf,18
+Ozaukee,City Of Port Washington Ward 6,State Assembly,60,185,REP,Rik Kluessendorf,12
+Ozaukee,City Of Port Washington Wards 7 & 8,State Assembly,60,358,REP,Rik Kluessendorf,31
+Ozaukee,City Of Port Washington Wards 9 & 10,State Assembly,60,223,REP,Rik Kluessendorf,24
+Ozaukee,City Of Port Washington Ward 11,State Assembly,60,251,REP,Rik Kluessendorf,27
+Washington,"Town Of Trenton Wards 1, 2, 5 - 7",State Assembly,60,635,REP,Rik Kluessendorf,21
+Washington,Village Of Newburg Wards 1 & 2,State Assembly,60,140,REP,Rik Kluessendorf,2
+Washington,"City Of West Bend Ward 28, 34",State Assembly,60,1,REP,Rik Kluessendorf,0
+Ozaukee,"Town Of Cedarburg Wards 1, 2 & 10",State Assembly,60,413,REP,Jake Curtis,30
+Ozaukee,Town Of Cedarburg Wards 3 & 4,State Assembly,60,420,REP,Jake Curtis,31
+Ozaukee,Town Of Cedarburg Wards 5 & 6,State Assembly,60,506,REP,Jake Curtis,61
+Ozaukee,Town Of Cedarburg Wards 7 - 9,State Assembly,60,445,REP,Jake Curtis,43
+Ozaukee,"Town Of Grafton Wards 1, 2 & 6",State Assembly,60,594,REP,Jake Curtis,136
+Ozaukee,Town Of Grafton Wards 3 - 5 & 7,State Assembly,60,506,REP,Jake Curtis,78
+Ozaukee,Town Of Port Washington Wards 1 & 2,State Assembly,60,353,REP,Jake Curtis,84
+Ozaukee,Town Of Saukville Wards 2 - 5,State Assembly,60,297,REP,Jake Curtis,45
+Ozaukee,Village Of Grafton Wards 1 & 2 & 16,State Assembly,60,284,REP,Jake Curtis,43
+Ozaukee,Village Of Grafton Wards 3 & 4,State Assembly,60,290,REP,Jake Curtis,57
+Ozaukee,Village Of Grafton Wards 5 & 6,State Assembly,60,506,REP,Jake Curtis,94
+Ozaukee,Village Of Grafton Wards 7 & 8,State Assembly,60,347,REP,Jake Curtis,108
+Ozaukee,Village Of Grafton Wards 9 - 11 & 14 - 15,State Assembly,60,392,REP,Jake Curtis,103
+Ozaukee,Village Of Grafton Wards 12 & 13,State Assembly,60,420,REP,Jake Curtis,92
+Ozaukee,Village Of Newburg Ward 3,State Assembly,60,17,REP,Jake Curtis,5
+Ozaukee,"Village Of Saukville Wards 1, 6 & 7",State Assembly,60,374,REP,Jake Curtis,118
+Ozaukee,Village Of Saukville Wards 2 - 5 & 8,State Assembly,60,330,REP,Jake Curtis,89
+Ozaukee,City Of Cedarburg Wards 1 & 2 & 15,State Assembly,60,397,REP,Jake Curtis,63
+Ozaukee,City Of Cedarburg Wards 3 & 4 & 16,State Assembly,60,437,REP,Jake Curtis,58
+Ozaukee,City Of Cedarburg Wards 5 & 6,State Assembly,60,295,REP,Jake Curtis,32
+Ozaukee,City Of Cedarburg Wards 7 & 8 & 17 & 22,State Assembly,60,201,REP,Jake Curtis,19
+Ozaukee,City Of Cedarburg Wards 9 & 10,State Assembly,60,319,REP,Jake Curtis,37
+Ozaukee,City Of Cedarburg Wards 11 & 12 & 18,State Assembly,60,419,REP,Jake Curtis,63
+Ozaukee,City Of Cedarburg Wards 13 & 14 & 19 & 20 & 21,State Assembly,60,439,REP,Jake Curtis,45
+Ozaukee,City Of Mequon Ward 2,State Assembly,60,246,REP,Jake Curtis,24
+Ozaukee,City Of Port Washington Ward 1,State Assembly,60,284,REP,Jake Curtis,60
+Ozaukee,City Of Port Washington Wards 2 & 3,State Assembly,60,217,REP,Jake Curtis,32
+Ozaukee,City Of Port Washington Wards 4 & 5,State Assembly,60,207,REP,Jake Curtis,44
+Ozaukee,City Of Port Washington Ward 6,State Assembly,60,185,REP,Jake Curtis,23
+Ozaukee,City Of Port Washington Wards 7 & 8,State Assembly,60,358,REP,Jake Curtis,89
+Ozaukee,City Of Port Washington Wards 9 & 10,State Assembly,60,223,REP,Jake Curtis,35
+Ozaukee,City Of Port Washington Ward 11,State Assembly,60,251,REP,Jake Curtis,79
+Washington,"Town Of Trenton Wards 1, 2, 5 - 7",State Assembly,60,635,REP,Jake Curtis,109
+Washington,Village Of Newburg Wards 1 & 2,State Assembly,60,140,REP,Jake Curtis,46
+Washington,"City Of West Bend Ward 28, 34",State Assembly,60,1,REP,Jake Curtis,1
+Ozaukee,"Town Of Cedarburg Wards 1, 2 & 10",State Assembly,60,413,REP,John Soper,7
+Ozaukee,Town Of Cedarburg Wards 3 & 4,State Assembly,60,420,REP,John Soper,2
+Ozaukee,Town Of Cedarburg Wards 5 & 6,State Assembly,60,506,REP,John Soper,3
+Ozaukee,Town Of Cedarburg Wards 7 - 9,State Assembly,60,445,REP,John Soper,9
+Ozaukee,"Town Of Grafton Wards 1, 2 & 6",State Assembly,60,594,REP,John Soper,23
+Ozaukee,Town Of Grafton Wards 3 - 5 & 7,State Assembly,60,506,REP,John Soper,16
+Ozaukee,Town Of Port Washington Wards 1 & 2,State Assembly,60,353,REP,John Soper,23
+Ozaukee,Town Of Saukville Wards 2 - 5,State Assembly,60,297,REP,John Soper,24
+Ozaukee,Village Of Grafton Wards 1 & 2 & 16,State Assembly,60,284,REP,John Soper,6
+Ozaukee,Village Of Grafton Wards 3 & 4,State Assembly,60,290,REP,John Soper,6
+Ozaukee,Village Of Grafton Wards 5 & 6,State Assembly,60,506,REP,John Soper,10
+Ozaukee,Village Of Grafton Wards 7 & 8,State Assembly,60,347,REP,John Soper,8
+Ozaukee,Village Of Grafton Wards 9 - 11 & 14 - 15,State Assembly,60,392,REP,John Soper,12
+Ozaukee,Village Of Grafton Wards 12 & 13,State Assembly,60,420,REP,John Soper,7
+Ozaukee,Village Of Newburg Ward 3,State Assembly,60,17,REP,John Soper,0
+Ozaukee,"Village Of Saukville Wards 1, 6 & 7",State Assembly,60,374,REP,John Soper,24
+Ozaukee,Village Of Saukville Wards 2 - 5 & 8,State Assembly,60,330,REP,John Soper,30
+Ozaukee,City Of Cedarburg Wards 1 & 2 & 15,State Assembly,60,397,REP,John Soper,10
+Ozaukee,City Of Cedarburg Wards 3 & 4 & 16,State Assembly,60,437,REP,John Soper,7
+Ozaukee,City Of Cedarburg Wards 5 & 6,State Assembly,60,295,REP,John Soper,5
+Ozaukee,City Of Cedarburg Wards 7 & 8 & 17 & 22,State Assembly,60,201,REP,John Soper,8
+Ozaukee,City Of Cedarburg Wards 9 & 10,State Assembly,60,319,REP,John Soper,3
+Ozaukee,City Of Cedarburg Wards 11 & 12 & 18,State Assembly,60,419,REP,John Soper,3
+Ozaukee,City Of Cedarburg Wards 13 & 14 & 19 & 20 & 21,State Assembly,60,439,REP,John Soper,8
+Ozaukee,City Of Mequon Ward 2,State Assembly,60,246,REP,John Soper,14
+Ozaukee,City Of Port Washington Ward 1,State Assembly,60,284,REP,John Soper,31
+Ozaukee,City Of Port Washington Wards 2 & 3,State Assembly,60,217,REP,John Soper,12
+Ozaukee,City Of Port Washington Wards 4 & 5,State Assembly,60,207,REP,John Soper,6
+Ozaukee,City Of Port Washington Ward 6,State Assembly,60,185,REP,John Soper,12
+Ozaukee,City Of Port Washington Wards 7 & 8,State Assembly,60,358,REP,John Soper,16
+Ozaukee,City Of Port Washington Wards 9 & 10,State Assembly,60,223,REP,John Soper,23
+Ozaukee,City Of Port Washington Ward 11,State Assembly,60,251,REP,John Soper,14
+Washington,"Town Of Trenton Wards 1, 2, 5 - 7",State Assembly,60,635,REP,John Soper,97
+Washington,Village Of Newburg Wards 1 & 2,State Assembly,60,140,REP,John Soper,22
+Washington,"City Of West Bend Ward 28, 34",State Assembly,60,1,REP,John Soper,0
+Ozaukee,"Town Of Cedarburg Wards 1, 2 & 10",State Assembly,60,413,REP,Duey Stroebel,146
+Ozaukee,Town Of Cedarburg Wards 3 & 4,State Assembly,60,420,REP,Duey Stroebel,150
+Ozaukee,Town Of Cedarburg Wards 5 & 6,State Assembly,60,506,REP,Duey Stroebel,169
+Ozaukee,Town Of Cedarburg Wards 7 - 9,State Assembly,60,445,REP,Duey Stroebel,194
+Ozaukee,"Town Of Grafton Wards 1, 2 & 6",State Assembly,60,594,REP,Duey Stroebel,98
+Ozaukee,Town Of Grafton Wards 3 - 5 & 7,State Assembly,60,506,REP,Duey Stroebel,94
+Ozaukee,Town Of Port Washington Wards 1 & 2,State Assembly,60,353,REP,Duey Stroebel,64
+Ozaukee,Town Of Saukville Wards 2 - 5,State Assembly,60,297,REP,Duey Stroebel,77
+Ozaukee,Village Of Grafton Wards 1 & 2 & 16,State Assembly,60,284,REP,Duey Stroebel,44
+Ozaukee,Village Of Grafton Wards 3 & 4,State Assembly,60,290,REP,Duey Stroebel,59
+Ozaukee,Village Of Grafton Wards 5 & 6,State Assembly,60,506,REP,Duey Stroebel,86
+Ozaukee,Village Of Grafton Wards 7 & 8,State Assembly,60,347,REP,Duey Stroebel,72
+Ozaukee,Village Of Grafton Wards 9 - 11 & 14 - 15,State Assembly,60,392,REP,Duey Stroebel,92
+Ozaukee,Village Of Grafton Wards 12 & 13,State Assembly,60,420,REP,Duey Stroebel,63
+Ozaukee,Village Of Newburg Ward 3,State Assembly,60,17,REP,Duey Stroebel,9
+Ozaukee,"Village Of Saukville Wards 1, 6 & 7",State Assembly,60,374,REP,Duey Stroebel,42
+Ozaukee,Village Of Saukville Wards 2 - 5 & 8,State Assembly,60,330,REP,Duey Stroebel,62
+Ozaukee,City Of Cedarburg Wards 1 & 2 & 15,State Assembly,60,397,REP,Duey Stroebel,186
+Ozaukee,City Of Cedarburg Wards 3 & 4 & 16,State Assembly,60,437,REP,Duey Stroebel,177
+Ozaukee,City Of Cedarburg Wards 5 & 6,State Assembly,60,295,REP,Duey Stroebel,140
+Ozaukee,City Of Cedarburg Wards 7 & 8 & 17 & 22,State Assembly,60,201,REP,Duey Stroebel,88
+Ozaukee,City Of Cedarburg Wards 9 & 10,State Assembly,60,319,REP,Duey Stroebel,112
+Ozaukee,City Of Cedarburg Wards 11 & 12 & 18,State Assembly,60,419,REP,Duey Stroebel,178
+Ozaukee,City Of Cedarburg Wards 13 & 14 & 19 & 20 & 21,State Assembly,60,439,REP,Duey Stroebel,174
+Ozaukee,City Of Mequon Ward 2,State Assembly,60,246,REP,Duey Stroebel,84
+Ozaukee,City Of Port Washington Ward 1,State Assembly,60,284,REP,Duey Stroebel,29
+Ozaukee,City Of Port Washington Wards 2 & 3,State Assembly,60,217,REP,Duey Stroebel,36
+Ozaukee,City Of Port Washington Wards 4 & 5,State Assembly,60,207,REP,Duey Stroebel,39
+Ozaukee,City Of Port Washington Ward 6,State Assembly,60,185,REP,Duey Stroebel,46
+Ozaukee,City Of Port Washington Wards 7 & 8,State Assembly,60,358,REP,Duey Stroebel,54
+Ozaukee,City Of Port Washington Wards 9 & 10,State Assembly,60,223,REP,Duey Stroebel,32
+Ozaukee,City Of Port Washington Ward 11,State Assembly,60,251,REP,Duey Stroebel,18
+Washington,"Town Of Trenton Wards 1, 2, 5 - 7",State Assembly,60,635,REP,Duey Stroebel,189
+Washington,Village Of Newburg Wards 1 & 2,State Assembly,60,140,REP,Duey Stroebel,22
+Washington,"City Of West Bend Ward 28, 34",State Assembly,60,1,REP,Duey Stroebel,0
+Ozaukee,"Town Of Cedarburg Wards 1, 2 & 10",State Assembly,60,413,REP,Scattering,0
+Ozaukee,Town Of Cedarburg Wards 3 & 4,State Assembly,60,420,REP,Scattering,0
+Ozaukee,Town Of Cedarburg Wards 5 & 6,State Assembly,60,506,REP,Scattering,1
+Ozaukee,Town Of Cedarburg Wards 7 - 9,State Assembly,60,445,REP,Scattering,0
+Ozaukee,"Town Of Grafton Wards 1, 2 & 6",State Assembly,60,594,REP,Scattering,1
+Ozaukee,Town Of Grafton Wards 3 - 5 & 7,State Assembly,60,506,REP,Scattering,0
+Ozaukee,Town Of Port Washington Wards 1 & 2,State Assembly,60,353,REP,Scattering,1
+Ozaukee,Town Of Saukville Wards 2 - 5,State Assembly,60,297,REP,Scattering,0
+Ozaukee,Village Of Grafton Wards 1 & 2 & 16,State Assembly,60,284,REP,Scattering,0
+Ozaukee,Village Of Grafton Wards 3 & 4,State Assembly,60,290,REP,Scattering,0
+Ozaukee,Village Of Grafton Wards 5 & 6,State Assembly,60,506,REP,Scattering,0
+Ozaukee,Village Of Grafton Wards 7 & 8,State Assembly,60,347,REP,Scattering,1
+Ozaukee,Village Of Grafton Wards 9 - 11 & 14 - 15,State Assembly,60,392,REP,Scattering,0
+Ozaukee,Village Of Grafton Wards 12 & 13,State Assembly,60,420,REP,Scattering,0
+Ozaukee,Village Of Newburg Ward 3,State Assembly,60,17,REP,Scattering,0
+Ozaukee,"Village Of Saukville Wards 1, 6 & 7",State Assembly,60,374,REP,Scattering,0
+Ozaukee,Village Of Saukville Wards 2 - 5 & 8,State Assembly,60,330,REP,Scattering,0
+Ozaukee,City Of Cedarburg Wards 1 & 2 & 15,State Assembly,60,397,REP,Scattering,0
+Ozaukee,City Of Cedarburg Wards 3 & 4 & 16,State Assembly,60,437,REP,Scattering,0
+Ozaukee,City Of Cedarburg Wards 5 & 6,State Assembly,60,295,REP,Scattering,0
+Ozaukee,City Of Cedarburg Wards 7 & 8 & 17 & 22,State Assembly,60,201,REP,Scattering,0
+Ozaukee,City Of Cedarburg Wards 9 & 10,State Assembly,60,319,REP,Scattering,0
+Ozaukee,City Of Cedarburg Wards 11 & 12 & 18,State Assembly,60,419,REP,Scattering,0
+Ozaukee,City Of Cedarburg Wards 13 & 14 & 19 & 20 & 21,State Assembly,60,439,REP,Scattering,0
+Ozaukee,City Of Mequon Ward 2,State Assembly,60,246,REP,Scattering,0
+Ozaukee,City Of Port Washington Ward 1,State Assembly,60,284,REP,Scattering,1
+Ozaukee,City Of Port Washington Wards 2 & 3,State Assembly,60,217,REP,Scattering,1
+Ozaukee,City Of Port Washington Wards 4 & 5,State Assembly,60,207,REP,Scattering,0
+Ozaukee,City Of Port Washington Ward 6,State Assembly,60,185,REP,Scattering,1
+Ozaukee,City Of Port Washington Wards 7 & 8,State Assembly,60,358,REP,Scattering,0
+Ozaukee,City Of Port Washington Wards 9 & 10,State Assembly,60,223,REP,Scattering,1
+Ozaukee,City Of Port Washington Ward 11,State Assembly,60,251,REP,Scattering,2
+Washington,"Town Of Trenton Wards 1, 2, 5 - 7",State Assembly,60,635,REP,Scattering,0
+Washington,Village Of Newburg Wards 1 & 2,State Assembly,60,140,REP,Scattering,0
+Washington,"City Of West Bend Ward 28, 34",State Assembly,60,1,REP,Scattering,0
+Ozaukee,"Town Of Cedarburg Wards 1, 2 & 10",State Assembly,60,0,CON,Scattering,0
+Ozaukee,Town Of Cedarburg Wards 3 & 4,State Assembly,60,0,CON,Scattering,0
+Ozaukee,Town Of Cedarburg Wards 5 & 6,State Assembly,60,0,CON,Scattering,0
+Ozaukee,Town Of Cedarburg Wards 7 - 9,State Assembly,60,0,CON,Scattering,0
+Ozaukee,"Town Of Grafton Wards 1, 2 & 6",State Assembly,60,0,CON,Scattering,0
+Ozaukee,Town Of Grafton Wards 3 - 5 & 7,State Assembly,60,0,CON,Scattering,0
+Ozaukee,Town Of Port Washington Wards 1 & 2,State Assembly,60,1,CON,Scattering,1
+Ozaukee,Town Of Saukville Wards 2 - 5,State Assembly,60,0,CON,Scattering,0
+Ozaukee,Village Of Grafton Wards 1 & 2 & 16,State Assembly,60,0,CON,Scattering,0
+Ozaukee,Village Of Grafton Wards 3 & 4,State Assembly,60,0,CON,Scattering,0
+Ozaukee,Village Of Grafton Wards 5 & 6,State Assembly,60,0,CON,Scattering,0
+Ozaukee,Village Of Grafton Wards 7 & 8,State Assembly,60,0,CON,Scattering,0
+Ozaukee,Village Of Grafton Wards 9 - 11 & 14 - 15,State Assembly,60,0,CON,Scattering,0
+Ozaukee,Village Of Grafton Wards 12 & 13,State Assembly,60,0,CON,Scattering,0
+Ozaukee,Village Of Newburg Ward 3,State Assembly,60,0,CON,Scattering,0
+Ozaukee,"Village Of Saukville Wards 1, 6 & 7",State Assembly,60,0,CON,Scattering,0
+Ozaukee,Village Of Saukville Wards 2 - 5 & 8,State Assembly,60,0,CON,Scattering,0
+Ozaukee,City Of Cedarburg Wards 1 & 2 & 15,State Assembly,60,1,CON,Scattering,1
+Ozaukee,City Of Cedarburg Wards 3 & 4 & 16,State Assembly,60,0,CON,Scattering,0
+Ozaukee,City Of Cedarburg Wards 5 & 6,State Assembly,60,0,CON,Scattering,0
+Ozaukee,City Of Cedarburg Wards 7 & 8 & 17 & 22,State Assembly,60,0,CON,Scattering,0
+Ozaukee,City Of Cedarburg Wards 9 & 10,State Assembly,60,0,CON,Scattering,0
+Ozaukee,City Of Cedarburg Wards 11 & 12 & 18,State Assembly,60,0,CON,Scattering,0
+Ozaukee,City Of Cedarburg Wards 13 & 14 & 19 & 20 & 21,State Assembly,60,0,CON,Scattering,0
+Ozaukee,City Of Mequon Ward 2,State Assembly,60,0,CON,Scattering,0
+Ozaukee,City Of Port Washington Ward 1,State Assembly,60,0,CON,Scattering,0
+Ozaukee,City Of Port Washington Wards 2 & 3,State Assembly,60,0,CON,Scattering,0
+Ozaukee,City Of Port Washington Wards 4 & 5,State Assembly,60,0,CON,Scattering,0
+Ozaukee,City Of Port Washington Ward 6,State Assembly,60,0,CON,Scattering,0
+Ozaukee,City Of Port Washington Wards 7 & 8,State Assembly,60,0,CON,Scattering,0
+Ozaukee,City Of Port Washington Wards 9 & 10,State Assembly,60,0,CON,Scattering,0
+Ozaukee,City Of Port Washington Ward 11,State Assembly,60,0,CON,Scattering,0
+Washington,"Town Of Trenton Wards 1, 2, 5 - 7",State Assembly,60,0,CON,Scattering,0
+Washington,Village Of Newburg Wards 1 & 2,State Assembly,60,0,CON,Scattering,0
+Washington,"City Of West Bend Ward 28, 34",State Assembly,60,0,CON,Scattering,0
+La Crosse,Town Of Bangor Ward 1,State Assembly,94,76,DEM,Steve Doyle,34
+La Crosse,Town Of Barre Wards 1 & 2,State Assembly,94,144,DEM,Steve Doyle,70
+La Crosse,Town Of Burns Ward 1,State Assembly,94,190,DEM,Steve Doyle,98
+La Crosse,Town Of Campbell Wards 1 - 6,State Assembly,94,759,DEM,Steve Doyle,395
+La Crosse,Town Of Farmington Wards 1 - 3,State Assembly,94,324,DEM,Steve Doyle,159
+La Crosse,Town Of Greenfield Wards 1 - 3,State Assembly,94,265,DEM,Steve Doyle,171
+La Crosse,Town Of Hamilton Wards 1 - 3,State Assembly,94,349,DEM,Steve Doyle,190
+La Crosse,Town Of Holland Wards 1 - 4,State Assembly,94,553,DEM,Steve Doyle,311
+La Crosse,Town Of Medary Wards 1 & 2,State Assembly,94,277,DEM,Steve Doyle,164
+La Crosse,Town Of Onalaska Wards 1 - 7,State Assembly,94,990,DEM,Steve Doyle,536
+La Crosse,Town Of Shelby Wards 2 & 3,State Assembly,94,305,DEM,Steve Doyle,178
+La Crosse,Town Of Washington Ward 1,State Assembly,94,111,DEM,Steve Doyle,39
+La Crosse,Village Of Bangor Wards 1 & 2,State Assembly,94,208,DEM,Steve Doyle,103
+La Crosse,Village Of Holmen Wards 1 - 17,State Assembly,94,1205,DEM,Steve Doyle,493
+La Crosse,Village Of Rockland Ward 1,State Assembly,94,61,DEM,Steve Doyle,32
+La Crosse,Village Of West Salem Wards 1 - 7,State Assembly,94,592,DEM,Steve Doyle,262
+La Crosse,City Of La Crosse Ward Wd18,State Assembly,94,0,DEM,Steve Doyle,0
+La Crosse,City Of La Crosse Ward Wd19,State Assembly,94,12,DEM,Steve Doyle,7
+La Crosse,City Of La Crosse Ward Wd20,State Assembly,94,0,DEM,Steve Doyle,0
+La Crosse,City Of La Crosse Ward Wd21,State Assembly,94,0,DEM,Steve Doyle,0
+La Crosse,City Of Onalaska Wards 1 - 4,State Assembly,94,955,DEM,Steve Doyle,581
+La Crosse,City Of Onalaska Wards 5 - 8 & 13,State Assembly,94,615,DEM,Steve Doyle,378
+La Crosse,City Of Onalaska Wards 9 - 12,State Assembly,94,770,DEM,Steve Doyle,498
+Monroe,Town Of Leon Ward 1,State Assembly,94,104,DEM,Steve Doyle,35
+Monroe,Town Of Portland Ward 1,State Assembly,94,97,DEM,Steve Doyle,14
+Monroe,Village Of Melvina Ward 1,State Assembly,94,20,DEM,Steve Doyle,4
+La Crosse,Town Of Bangor Ward 1,State Assembly,94,76,DEM,Cheryl A. Hancock,42
+La Crosse,Town Of Barre Wards 1 & 2,State Assembly,94,144,DEM,Cheryl A. Hancock,74
+La Crosse,Town Of Burns Ward 1,State Assembly,94,190,DEM,Cheryl A. Hancock,92
+La Crosse,Town Of Campbell Wards 1 - 6,State Assembly,94,759,DEM,Cheryl A. Hancock,364
+La Crosse,Town Of Farmington Wards 1 - 3,State Assembly,94,324,DEM,Cheryl A. Hancock,165
+La Crosse,Town Of Greenfield Wards 1 - 3,State Assembly,94,265,DEM,Cheryl A. Hancock,94
+La Crosse,Town Of Hamilton Wards 1 - 3,State Assembly,94,349,DEM,Cheryl A. Hancock,158
+La Crosse,Town Of Holland Wards 1 - 4,State Assembly,94,553,DEM,Cheryl A. Hancock,242
+La Crosse,Town Of Medary Wards 1 & 2,State Assembly,94,277,DEM,Cheryl A. Hancock,113
+La Crosse,Town Of Onalaska Wards 1 - 7,State Assembly,94,990,DEM,Cheryl A. Hancock,453
+La Crosse,Town Of Shelby Wards 2 & 3,State Assembly,94,305,DEM,Cheryl A. Hancock,127
+La Crosse,Town Of Washington Ward 1,State Assembly,94,111,DEM,Cheryl A. Hancock,72
+La Crosse,Village Of Bangor Wards 1 & 2,State Assembly,94,208,DEM,Cheryl A. Hancock,105
+La Crosse,Village Of Holmen Wards 1 - 17,State Assembly,94,1205,DEM,Cheryl A. Hancock,712
+La Crosse,Village Of Rockland Ward 1,State Assembly,94,61,DEM,Cheryl A. Hancock,29
+La Crosse,Village Of West Salem Wards 1 - 7,State Assembly,94,592,DEM,Cheryl A. Hancock,330
+La Crosse,City Of La Crosse Ward Wd18,State Assembly,94,0,DEM,Cheryl A. Hancock,0
+La Crosse,City Of La Crosse Ward Wd19,State Assembly,94,12,DEM,Cheryl A. Hancock,5
+La Crosse,City Of La Crosse Ward Wd20,State Assembly,94,0,DEM,Cheryl A. Hancock,0
+La Crosse,City Of La Crosse Ward Wd21,State Assembly,94,0,DEM,Cheryl A. Hancock,0
+La Crosse,City Of Onalaska Wards 1 - 4,State Assembly,94,955,DEM,Cheryl A. Hancock,374
+La Crosse,City Of Onalaska Wards 5 - 8 & 13,State Assembly,94,615,DEM,Cheryl A. Hancock,237
+La Crosse,City Of Onalaska Wards 9 - 12,State Assembly,94,770,DEM,Cheryl A. Hancock,271
+Monroe,Town Of Leon Ward 1,State Assembly,94,104,DEM,Cheryl A. Hancock,69
+Monroe,Town Of Portland Ward 1,State Assembly,94,97,DEM,Cheryl A. Hancock,83
+Monroe,Village Of Melvina Ward 1,State Assembly,94,20,DEM,Cheryl A. Hancock,16
+La Crosse,Town Of Bangor Ward 1,State Assembly,94,76,DEM,Scattering,0
+La Crosse,Town Of Barre Wards 1 & 2,State Assembly,94,144,DEM,Scattering,0
+La Crosse,Town Of Burns Ward 1,State Assembly,94,190,DEM,Scattering,0
+La Crosse,Town Of Campbell Wards 1 - 6,State Assembly,94,759,DEM,Scattering,0
+La Crosse,Town Of Farmington Wards 1 - 3,State Assembly,94,324,DEM,Scattering,0
+La Crosse,Town Of Greenfield Wards 1 - 3,State Assembly,94,265,DEM,Scattering,0
+La Crosse,Town Of Hamilton Wards 1 - 3,State Assembly,94,349,DEM,Scattering,1
+La Crosse,Town Of Holland Wards 1 - 4,State Assembly,94,553,DEM,Scattering,0
+La Crosse,Town Of Medary Wards 1 & 2,State Assembly,94,277,DEM,Scattering,0
+La Crosse,Town Of Onalaska Wards 1 - 7,State Assembly,94,990,DEM,Scattering,1
+La Crosse,Town Of Shelby Wards 2 & 3,State Assembly,94,305,DEM,Scattering,0
+La Crosse,Town Of Washington Ward 1,State Assembly,94,111,DEM,Scattering,0
+La Crosse,Village Of Bangor Wards 1 & 2,State Assembly,94,208,DEM,Scattering,0
+La Crosse,Village Of Holmen Wards 1 - 17,State Assembly,94,1205,DEM,Scattering,0
+La Crosse,Village Of Rockland Ward 1,State Assembly,94,61,DEM,Scattering,0
+La Crosse,Village Of West Salem Wards 1 - 7,State Assembly,94,592,DEM,Scattering,0
+La Crosse,City Of La Crosse Ward Wd18,State Assembly,94,0,DEM,Scattering,0
+La Crosse,City Of La Crosse Ward Wd19,State Assembly,94,12,DEM,Scattering,0
+La Crosse,City Of La Crosse Ward Wd20,State Assembly,94,0,DEM,Scattering,0
+La Crosse,City Of La Crosse Ward Wd21,State Assembly,94,0,DEM,Scattering,0
+La Crosse,City Of Onalaska Wards 1 - 4,State Assembly,94,955,DEM,Scattering,0
+La Crosse,City Of Onalaska Wards 5 - 8 & 13,State Assembly,94,615,DEM,Scattering,0
+La Crosse,City Of Onalaska Wards 9 - 12,State Assembly,94,770,DEM,Scattering,1
+Monroe,Town Of Leon Ward 1,State Assembly,94,104,DEM,Scattering,0
+Monroe,Town Of Portland Ward 1,State Assembly,94,97,DEM,Scattering,0
+Monroe,Village Of Melvina Ward 1,State Assembly,94,20,DEM,Scattering,0
+La Crosse,Town Of Bangor Ward 1,State Assembly,94,81,REP,Lynnetta Kopp,19
+La Crosse,Town Of Barre Wards 1 & 2,State Assembly,94,209,REP,Lynnetta Kopp,41
+La Crosse,Town Of Burns Ward 1,State Assembly,94,258,REP,Lynnetta Kopp,49
+La Crosse,Town Of Campbell Wards 1 - 6,State Assembly,94,474,REP,Lynnetta Kopp,127
+La Crosse,Town Of Farmington Wards 1 - 3,State Assembly,94,243,REP,Lynnetta Kopp,37
+La Crosse,Town Of Greenfield Wards 1 - 3,State Assembly,94,275,REP,Lynnetta Kopp,73
+La Crosse,Town Of Hamilton Wards 1 - 3,State Assembly,94,423,REP,Lynnetta Kopp,71
+La Crosse,Town Of Holland Wards 1 - 4,State Assembly,94,413,REP,Lynnetta Kopp,132
+La Crosse,Town Of Medary Wards 1 & 2,State Assembly,94,219,REP,Lynnetta Kopp,74
+La Crosse,Town Of Onalaska Wards 1 - 7,State Assembly,94,841,REP,Lynnetta Kopp,252
+La Crosse,Town Of Shelby Wards 2 & 3,State Assembly,94,290,REP,Lynnetta Kopp,151
+La Crosse,Town Of Washington Ward 1,State Assembly,94,62,REP,Lynnetta Kopp,14
+La Crosse,Village Of Bangor Wards 1 & 2,State Assembly,94,166,REP,Lynnetta Kopp,22
+La Crosse,Village Of Holmen Wards 1 - 17,State Assembly,94,760,REP,Lynnetta Kopp,261
+La Crosse,Village Of Rockland Ward 1,State Assembly,94,66,REP,Lynnetta Kopp,7
+La Crosse,Village Of West Salem Wards 1 - 7,State Assembly,94,662,REP,Lynnetta Kopp,74
+La Crosse,City Of La Crosse Ward Wd18,State Assembly,94,9,REP,Lynnetta Kopp,1
+La Crosse,City Of La Crosse Ward Wd19,State Assembly,94,10,REP,Lynnetta Kopp,3
+La Crosse,City Of La Crosse Ward Wd20,State Assembly,94,0,REP,Lynnetta Kopp,0
+La Crosse,City Of La Crosse Ward Wd21,State Assembly,94,0,REP,Lynnetta Kopp,0
+La Crosse,City Of Onalaska Wards 1 - 4,State Assembly,94,877,REP,Lynnetta Kopp,297
+La Crosse,City Of Onalaska Wards 5 - 8 & 13,State Assembly,94,439,REP,Lynnetta Kopp,115
+La Crosse,City Of Onalaska Wards 9 - 12,State Assembly,94,676,REP,Lynnetta Kopp,255
+Monroe,Town Of Leon Ward 1,State Assembly,94,160,REP,Lynnetta Kopp,40
+Monroe,Town Of Portland Ward 1,State Assembly,94,82,REP,Lynnetta Kopp,14
+Monroe,Village Of Melvina Ward 1,State Assembly,94,2,REP,Lynnetta Kopp,2
+La Crosse,Town Of Bangor Ward 1,State Assembly,94,81,REP,Jake Speed,5
+La Crosse,Town Of Barre Wards 1 & 2,State Assembly,94,209,REP,Jake Speed,2
+La Crosse,Town Of Burns Ward 1,State Assembly,94,258,REP,Jake Speed,6
+La Crosse,Town Of Campbell Wards 1 - 6,State Assembly,94,474,REP,Jake Speed,23
+La Crosse,Town Of Farmington Wards 1 - 3,State Assembly,94,243,REP,Jake Speed,3
+La Crosse,Town Of Greenfield Wards 1 - 3,State Assembly,94,275,REP,Jake Speed,9
+La Crosse,Town Of Hamilton Wards 1 - 3,State Assembly,94,423,REP,Jake Speed,1
+La Crosse,Town Of Holland Wards 1 - 4,State Assembly,94,413,REP,Jake Speed,11
+La Crosse,Town Of Medary Wards 1 & 2,State Assembly,94,219,REP,Jake Speed,6
+La Crosse,Town Of Onalaska Wards 1 - 7,State Assembly,94,841,REP,Jake Speed,53
+La Crosse,Town Of Shelby Wards 2 & 3,State Assembly,94,290,REP,Jake Speed,3
+La Crosse,Town Of Washington Ward 1,State Assembly,94,62,REP,Jake Speed,1
+La Crosse,Village Of Bangor Wards 1 & 2,State Assembly,94,166,REP,Jake Speed,3
+La Crosse,Village Of Holmen Wards 1 - 17,State Assembly,94,760,REP,Jake Speed,23
+La Crosse,Village Of Rockland Ward 1,State Assembly,94,66,REP,Jake Speed,1
+La Crosse,Village Of West Salem Wards 1 - 7,State Assembly,94,662,REP,Jake Speed,9
+La Crosse,City Of La Crosse Ward Wd18,State Assembly,94,9,REP,Jake Speed,0
+La Crosse,City Of La Crosse Ward Wd19,State Assembly,94,10,REP,Jake Speed,0
+La Crosse,City Of La Crosse Ward Wd20,State Assembly,94,0,REP,Jake Speed,0
+La Crosse,City Of La Crosse Ward Wd21,State Assembly,94,0,REP,Jake Speed,0
+La Crosse,City Of Onalaska Wards 1 - 4,State Assembly,94,877,REP,Jake Speed,29
+La Crosse,City Of Onalaska Wards 5 - 8 & 13,State Assembly,94,439,REP,Jake Speed,13
+La Crosse,City Of Onalaska Wards 9 - 12,State Assembly,94,676,REP,Jake Speed,12
+Monroe,Town Of Leon Ward 1,State Assembly,94,160,REP,Jake Speed,13
+Monroe,Town Of Portland Ward 1,State Assembly,94,82,REP,Jake Speed,10
+Monroe,Village Of Melvina Ward 1,State Assembly,94,2,REP,Jake Speed,0
+La Crosse,Town Of Bangor Ward 1,State Assembly,94,81,REP,John Lautz,33
+La Crosse,Town Of Barre Wards 1 & 2,State Assembly,94,209,REP,John Lautz,104
+La Crosse,Town Of Burns Ward 1,State Assembly,94,258,REP,John Lautz,95
+La Crosse,Town Of Campbell Wards 1 - 6,State Assembly,94,474,REP,John Lautz,263
+La Crosse,Town Of Farmington Wards 1 - 3,State Assembly,94,243,REP,John Lautz,86
+La Crosse,Town Of Greenfield Wards 1 - 3,State Assembly,94,275,REP,John Lautz,128
+La Crosse,Town Of Hamilton Wards 1 - 3,State Assembly,94,423,REP,John Lautz,196
+La Crosse,Town Of Holland Wards 1 - 4,State Assembly,94,413,REP,John Lautz,215
+La Crosse,Town Of Medary Wards 1 & 2,State Assembly,94,219,REP,John Lautz,110
+La Crosse,Town Of Onalaska Wards 1 - 7,State Assembly,94,841,REP,John Lautz,438
+La Crosse,Town Of Shelby Wards 2 & 3,State Assembly,94,290,REP,John Lautz,114
+La Crosse,Town Of Washington Ward 1,State Assembly,94,62,REP,John Lautz,33
+La Crosse,Village Of Bangor Wards 1 & 2,State Assembly,94,166,REP,John Lautz,80
+La Crosse,Village Of Holmen Wards 1 - 17,State Assembly,94,760,REP,John Lautz,351
+La Crosse,Village Of Rockland Ward 1,State Assembly,94,66,REP,John Lautz,27
+La Crosse,Village Of West Salem Wards 1 - 7,State Assembly,94,662,REP,John Lautz,258
+La Crosse,City Of La Crosse Ward Wd18,State Assembly,94,9,REP,John Lautz,8
+La Crosse,City Of La Crosse Ward Wd19,State Assembly,94,10,REP,John Lautz,7
+La Crosse,City Of La Crosse Ward Wd20,State Assembly,94,0,REP,John Lautz,0
+La Crosse,City Of La Crosse Ward Wd21,State Assembly,94,0,REP,John Lautz,0
+La Crosse,City Of Onalaska Wards 1 - 4,State Assembly,94,877,REP,John Lautz,449
+La Crosse,City Of Onalaska Wards 5 - 8 & 13,State Assembly,94,439,REP,John Lautz,258
+La Crosse,City Of Onalaska Wards 9 - 12,State Assembly,94,676,REP,John Lautz,342
+Monroe,Town Of Leon Ward 1,State Assembly,94,160,REP,John Lautz,68
+Monroe,Town Of Portland Ward 1,State Assembly,94,82,REP,John Lautz,31
+Monroe,Village Of Melvina Ward 1,State Assembly,94,2,REP,John Lautz,0
+La Crosse,Town Of Bangor Ward 1,State Assembly,94,81,REP,Jon Hetland,21
+La Crosse,Town Of Barre Wards 1 & 2,State Assembly,94,209,REP,Jon Hetland,59
+La Crosse,Town Of Burns Ward 1,State Assembly,94,258,REP,Jon Hetland,54
+La Crosse,Town Of Campbell Wards 1 - 6,State Assembly,94,474,REP,Jon Hetland,34
+La Crosse,Town Of Farmington Wards 1 - 3,State Assembly,94,243,REP,Jon Hetland,56
+La Crosse,Town Of Greenfield Wards 1 - 3,State Assembly,94,275,REP,Jon Hetland,48
+La Crosse,Town Of Hamilton Wards 1 - 3,State Assembly,94,423,REP,Jon Hetland,145
+La Crosse,Town Of Holland Wards 1 - 4,State Assembly,94,413,REP,Jon Hetland,25
+La Crosse,Town Of Medary Wards 1 & 2,State Assembly,94,219,REP,Jon Hetland,19
+La Crosse,Town Of Onalaska Wards 1 - 7,State Assembly,94,841,REP,Jon Hetland,59
+La Crosse,Town Of Shelby Wards 2 & 3,State Assembly,94,290,REP,Jon Hetland,16
+La Crosse,Town Of Washington Ward 1,State Assembly,94,62,REP,Jon Hetland,5
+La Crosse,Village Of Bangor Wards 1 & 2,State Assembly,94,166,REP,Jon Hetland,55
+La Crosse,Village Of Holmen Wards 1 - 17,State Assembly,94,760,REP,Jon Hetland,76
+La Crosse,Village Of Rockland Ward 1,State Assembly,94,66,REP,Jon Hetland,24
+La Crosse,Village Of West Salem Wards 1 - 7,State Assembly,94,662,REP,Jon Hetland,312
+La Crosse,City Of La Crosse Ward Wd18,State Assembly,94,9,REP,Jon Hetland,0
+La Crosse,City Of La Crosse Ward Wd19,State Assembly,94,10,REP,Jon Hetland,0
+La Crosse,City Of La Crosse Ward Wd20,State Assembly,94,0,REP,Jon Hetland,0
+La Crosse,City Of La Crosse Ward Wd21,State Assembly,94,0,REP,Jon Hetland,0
+La Crosse,City Of Onalaska Wards 1 - 4,State Assembly,94,877,REP,Jon Hetland,89
+La Crosse,City Of Onalaska Wards 5 - 8 & 13,State Assembly,94,439,REP,Jon Hetland,39
+La Crosse,City Of Onalaska Wards 9 - 12,State Assembly,94,676,REP,Jon Hetland,50
+Monroe,Town Of Leon Ward 1,State Assembly,94,160,REP,Jon Hetland,25
+Monroe,Town Of Portland Ward 1,State Assembly,94,82,REP,Jon Hetland,12
+Monroe,Village Of Melvina Ward 1,State Assembly,94,2,REP,Jon Hetland,0
+La Crosse,Town Of Bangor Ward 1,State Assembly,94,81,REP,Steven Freng,3
+La Crosse,Town Of Barre Wards 1 & 2,State Assembly,94,209,REP,Steven Freng,3
+La Crosse,Town Of Burns Ward 1,State Assembly,94,258,REP,Steven Freng,54
+La Crosse,Town Of Campbell Wards 1 - 6,State Assembly,94,474,REP,Steven Freng,27
+La Crosse,Town Of Farmington Wards 1 - 3,State Assembly,94,243,REP,Steven Freng,61
+La Crosse,Town Of Greenfield Wards 1 - 3,State Assembly,94,275,REP,Steven Freng,17
+La Crosse,Town Of Hamilton Wards 1 - 3,State Assembly,94,423,REP,Steven Freng,10
+La Crosse,Town Of Holland Wards 1 - 4,State Assembly,94,413,REP,Steven Freng,30
+La Crosse,Town Of Medary Wards 1 & 2,State Assembly,94,219,REP,Steven Freng,10
+La Crosse,Town Of Onalaska Wards 1 - 7,State Assembly,94,841,REP,Steven Freng,39
+La Crosse,Town Of Shelby Wards 2 & 3,State Assembly,94,290,REP,Steven Freng,6
+La Crosse,Town Of Washington Ward 1,State Assembly,94,62,REP,Steven Freng,9
+La Crosse,Village Of Bangor Wards 1 & 2,State Assembly,94,166,REP,Steven Freng,5
+La Crosse,Village Of Holmen Wards 1 - 17,State Assembly,94,760,REP,Steven Freng,49
+La Crosse,Village Of Rockland Ward 1,State Assembly,94,66,REP,Steven Freng,7
+La Crosse,Village Of West Salem Wards 1 - 7,State Assembly,94,662,REP,Steven Freng,9
+La Crosse,City Of La Crosse Ward Wd18,State Assembly,94,9,REP,Steven Freng,0
+La Crosse,City Of La Crosse Ward Wd19,State Assembly,94,10,REP,Steven Freng,0
+La Crosse,City Of La Crosse Ward Wd20,State Assembly,94,0,REP,Steven Freng,0
+La Crosse,City Of La Crosse Ward Wd21,State Assembly,94,0,REP,Steven Freng,0
+La Crosse,City Of Onalaska Wards 1 - 4,State Assembly,94,877,REP,Steven Freng,13
+La Crosse,City Of Onalaska Wards 5 - 8 & 13,State Assembly,94,439,REP,Steven Freng,14
+La Crosse,City Of Onalaska Wards 9 - 12,State Assembly,94,676,REP,Steven Freng,17
+Monroe,Town Of Leon Ward 1,State Assembly,94,160,REP,Steven Freng,14
+Monroe,Town Of Portland Ward 1,State Assembly,94,82,REP,Steven Freng,15
+Monroe,Village Of Melvina Ward 1,State Assembly,94,2,REP,Steven Freng,0
+La Crosse,Town Of Bangor Ward 1,State Assembly,94,81,REP,Scattering,0
+La Crosse,Town Of Barre Wards 1 & 2,State Assembly,94,209,REP,Scattering,0
+La Crosse,Town Of Burns Ward 1,State Assembly,94,258,REP,Scattering,0
+La Crosse,Town Of Campbell Wards 1 - 6,State Assembly,94,474,REP,Scattering,0
+La Crosse,Town Of Farmington Wards 1 - 3,State Assembly,94,243,REP,Scattering,0
+La Crosse,Town Of Greenfield Wards 1 - 3,State Assembly,94,275,REP,Scattering,0
+La Crosse,Town Of Hamilton Wards 1 - 3,State Assembly,94,423,REP,Scattering,0
+La Crosse,Town Of Holland Wards 1 - 4,State Assembly,94,413,REP,Scattering,0
+La Crosse,Town Of Medary Wards 1 & 2,State Assembly,94,219,REP,Scattering,0
+La Crosse,Town Of Onalaska Wards 1 - 7,State Assembly,94,841,REP,Scattering,0
+La Crosse,Town Of Shelby Wards 2 & 3,State Assembly,94,290,REP,Scattering,0
+La Crosse,Town Of Washington Ward 1,State Assembly,94,62,REP,Scattering,0
+La Crosse,Village Of Bangor Wards 1 & 2,State Assembly,94,166,REP,Scattering,1
+La Crosse,Village Of Holmen Wards 1 - 17,State Assembly,94,760,REP,Scattering,0
+La Crosse,Village Of Rockland Ward 1,State Assembly,94,66,REP,Scattering,0
+La Crosse,Village Of West Salem Wards 1 - 7,State Assembly,94,662,REP,Scattering,0
+La Crosse,City Of La Crosse Ward Wd18,State Assembly,94,9,REP,Scattering,0
+La Crosse,City Of La Crosse Ward Wd19,State Assembly,94,10,REP,Scattering,0
+La Crosse,City Of La Crosse Ward Wd20,State Assembly,94,0,REP,Scattering,0
+La Crosse,City Of La Crosse Ward Wd21,State Assembly,94,0,REP,Scattering,0
+La Crosse,City Of Onalaska Wards 1 - 4,State Assembly,94,877,REP,Scattering,0
+La Crosse,City Of Onalaska Wards 5 - 8 & 13,State Assembly,94,439,REP,Scattering,0
+La Crosse,City Of Onalaska Wards 9 - 12,State Assembly,94,676,REP,Scattering,0
+Monroe,Town Of Leon Ward 1,State Assembly,94,160,REP,Scattering,0
+Monroe,Town Of Portland Ward 1,State Assembly,94,82,REP,Scattering,0
+Monroe,Village Of Melvina Ward 1,State Assembly,94,2,REP,Scattering,0
+La Crosse,Town Of Bangor Ward 1,State Assembly,94,0,CON,Scattering,0
+La Crosse,Town Of Barre Wards 1 & 2,State Assembly,94,0,CON,Scattering,0
+La Crosse,Town Of Burns Ward 1,State Assembly,94,0,CON,Scattering,0
+La Crosse,Town Of Campbell Wards 1 - 6,State Assembly,94,0,CON,Scattering,0
+La Crosse,Town Of Farmington Wards 1 - 3,State Assembly,94,0,CON,Scattering,0
+La Crosse,Town Of Greenfield Wards 1 - 3,State Assembly,94,0,CON,Scattering,0
+La Crosse,Town Of Hamilton Wards 1 - 3,State Assembly,94,0,CON,Scattering,0
+La Crosse,Town Of Holland Wards 1 - 4,State Assembly,94,0,CON,Scattering,0
+La Crosse,Town Of Medary Wards 1 & 2,State Assembly,94,0,CON,Scattering,0
+La Crosse,Town Of Onalaska Wards 1 - 7,State Assembly,94,0,CON,Scattering,0
+La Crosse,Town Of Shelby Wards 2 & 3,State Assembly,94,0,CON,Scattering,0
+La Crosse,Town Of Washington Ward 1,State Assembly,94,0,CON,Scattering,0
+La Crosse,Village Of Bangor Wards 1 & 2,State Assembly,94,0,CON,Scattering,0
+La Crosse,Village Of Holmen Wards 1 - 17,State Assembly,94,0,CON,Scattering,0
+La Crosse,Village Of Rockland Ward 1,State Assembly,94,0,CON,Scattering,0
+La Crosse,Village Of West Salem Wards 1 - 7,State Assembly,94,0,CON,Scattering,0
+La Crosse,City Of La Crosse Ward Wd18,State Assembly,94,0,CON,Scattering,0
+La Crosse,City Of La Crosse Ward Wd19,State Assembly,94,0,CON,Scattering,0
+La Crosse,City Of La Crosse Ward Wd20,State Assembly,94,0,CON,Scattering,0
+La Crosse,City Of La Crosse Ward Wd21,State Assembly,94,0,CON,Scattering,0
+La Crosse,City Of Onalaska Wards 1 - 4,State Assembly,94,0,CON,Scattering,0
+La Crosse,City Of Onalaska Wards 5 - 8 & 13,State Assembly,94,1,CON,Scattering,1
+La Crosse,City Of Onalaska Wards 9 - 12,State Assembly,94,0,CON,Scattering,0
+Monroe,Town Of Leon Ward 1,State Assembly,94,0,CON,Scattering,0
+Monroe,Town Of Portland Ward 1,State Assembly,94,0,CON,Scattering,0
+Monroe,Village Of Melvina Ward 1,State Assembly,94,0,CON,Scattering,0
